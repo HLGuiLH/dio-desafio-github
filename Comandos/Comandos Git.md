@@ -26,7 +26,7 @@
 
 **GIT STATUS** - Mostrar o status do diretório. 
 
-**GIT PUSH ORIGIN MASTER** - Mandar a atualização para o GITHUB.
+**GIT PUSH ORIGIN (Nome da bland)** - Mandar a atualização para o GITHUB.
 
 **GIT PULL** - Puxar o arquivo de ultimo nível no GITHUB - (GIT PULL ORIGIN MASTER)
 
